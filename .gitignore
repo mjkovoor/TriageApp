@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode config
+.vscode/
+
+# macOS/Linux system files
+.DS_Store
+Thumbs.db
+
+# FAISS index (generated at runtime)
+faiss_index_pubmed/
+
+# pip environment
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Logs and caches
+*.log
+.cache/
+
+# Python virtual environments
+venv/
+.venv/
+
+# Gradio logs or outputs (if saved)
+gradio_cached_examples/

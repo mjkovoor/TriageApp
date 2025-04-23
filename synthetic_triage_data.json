@@ -1,0 +1,402 @@
+[
+  {
+    "symptom":"Frequent headaches and light sensitivity",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Blood in stool",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Bloating and excessive gas",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Trouble concentrating and remembering",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Unexplained weight gain",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Pain radiating to left arm",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Persistent dry cough",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Difficulty walking after a fall",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Menstrual irregularities",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Numbness in hands or feet",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Cracking sounds in joints",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Shortness of breath and chest discomfort",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Loss of appetite and weight loss",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Cold intolerance and weight gain",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Excessive hunger despite eating",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Lack of interest in daily activities",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Noisy breathing and coughing",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Seizures without warning",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Dry, flaky scalp",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Discolored spots on the skin",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Persistent acne breakouts",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Missed periods and nausea",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Hair thinning and brittle nails",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Coughing up blood",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Heat intolerance and sweating",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Painful urination and burning sensation",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Sudden shortness of breath",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Palpitations and dizziness",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Itching and peeling between toes",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Bone pain at night",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Tightness in the chest after exercise",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Limited range of motion in knee",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Abdominal cramps after meals",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Weakness on one side of the body",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Tremors in hands",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Irregular heartbeat",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Paranoia and hallucinations",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Shortness of breath after walking",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Wheezing and breathlessness",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Frequent respiratory infections",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Recurrent urinary tract infections",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Swelling in the ankle after injury",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Dry skin and constipation",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Sharp shooting pain down the spine",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Feeling worthless and hopeless",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Red, itchy patches on skin",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Irregular menstrual cycles",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Anxiety in social situations",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Difficulty starting urination",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Pelvic pain and cloudy urine",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Blood in urine",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Back pain during pregnancy",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Back pain after lifting heavy objects",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Leakage of urine during sneezing",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Lower abdominal cramps",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Pain during intercourse",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Obsessive thoughts and compulsive behaviors",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Breathing difficulty in cold air",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Scaly skin on elbows",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Sudden mood changes",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Change in bowel habits",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Sudden appearance of moles",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Pain in shoulder with movement",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Fatigue with mild activity",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Nausea and vomiting",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Weak urine stream",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Swelling in the legs",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Rash that doesn\u2019t go away",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Chronic constipation",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Frequent nighttime urination",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Difficulty speaking or slurred speech",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Persistent heartburn",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Joint pain and stiffness in the morning",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Difficulty swallowing",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Unusual vaginal discharge",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Frequent urination and pelvic pressure",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Breast tenderness and mood swings",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Urgent need to urinate with little output",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Numbness in fingers after repetitive motion",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Irritability and anger outbursts",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Shortness of breath when lying flat",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Fatigue and increased thirst",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Mood swings and anxiety",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Loss of balance and coordination",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Heavy bleeding during periods",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Painful blisters on hands",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Hives and swelling after eating certain foods",
+    "specialty":"Dermatology"
+  },
+  {
+    "symptom":"Chronic cough with mucus",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Swelling in legs during pregnancy",
+    "specialty":"OB\/GYN"
+  },
+  {
+    "symptom":"Rapid heartbeat at rest",
+    "specialty":"Cardiology"
+  },
+  {
+    "symptom":"Upper abdominal pain after eating",
+    "specialty":"Gastroenterology"
+  },
+  {
+    "symptom":"Frequent urination and blurry vision",
+    "specialty":"Endocrinology"
+  },
+  {
+    "symptom":"Discomfort in lower abdomen",
+    "specialty":"Urology"
+  },
+  {
+    "symptom":"Sleep disturbances and nightmares",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Visual disturbances and dizziness",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Chest tightness, especially at night",
+    "specialty":"Pulmonology"
+  },
+  {
+    "symptom":"Hip pain when climbing stairs",
+    "specialty":"Orthopedics"
+  },
+  {
+    "symptom":"Sudden confusion and disorientation",
+    "specialty":"Neurology"
+  },
+  {
+    "symptom":"Persistent sadness and crying spells",
+    "specialty":"Psychiatry"
+  },
+  {
+    "symptom":"Chest pain on exertion",
+    "specialty":"Cardiology"
+  }
+]
